@@ -141,7 +141,7 @@
       }
     },
     "com.amazonaws.dynamodb#AttributeValue": {
-      "type": "structure",
+      "type": "union",
       "members": {
         "BOOL": {
           "target": "com.amazonaws.dynamodb#BooleanAttributeValue",

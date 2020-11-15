@@ -1,3 +1,7 @@
+github.com/aws/aws-sdk-go-v2 v0.29.1-0.20201113222241-726e4a15683d h1:93Jm1o822AjAxUxa1iInxkJpn3yyWV7MD4+2nq85Zu8=
+github.com/aws/aws-sdk-go-v2 v0.29.1-0.20201113222241-726e4a15683d/go.mod h1:sfvlyefY54joy/2ohHP8LRSXhkE7A/Cw1uU8ypOMdj0=
+github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v0.3.1-0.20201113222241-726e4a15683d h1:cnCSbwLs1cqUcDaK6uJ03wFeKnfzB9URzvP7gkBq4to=
+github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v0.3.1-0.20201113222241-726e4a15683d/go.mod h1:8ssQ+eALAh5+Z5uix7Ku/rzM1uDVNQrAQx7cNiq1Rwo=
 github.com/awslabs/smithy-go v0.3.0/go.mod h1:hPOQwnmBLHsUphH13tVSjQhTAFma0/0XoZGbBcOuABI=
 github.com/awslabs/smithy-go v0.3.1-0.20201104233911-38864709e183/go.mod h1:hPOQwnmBLHsUphH13tVSjQhTAFma0/0XoZGbBcOuABI=
 github.com/awslabs/smithy-go v0.3.1-0.20201108010311-62c2a93810b4 h1:Aj5dOF+lDoEhU92no7YZF0IokuWGjiNrcm/DGIG3iII=

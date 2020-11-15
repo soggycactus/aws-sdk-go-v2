@@ -9,4 +9,8 @@ require (
 	github.com/google/go-cmp v0.5.3
 )
 
-replace github.com/aws/aws-sdk-go-v2/service/dynamodb => ../../../service/dynamodb
+replace github.com/aws/aws-sdk-go-v2/service/dynamodb => ../../../service/dynamodb/
+
+replace github.com/aws/aws-sdk-go-v2 => ../../../
+
+replace github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding => ../../../service/internal/accept-encoding/
